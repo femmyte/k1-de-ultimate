@@ -1,21 +1,16 @@
 {
   "files": {
-    "main.css": "/k1-de-ultimate/static/css/main.aee57203.css",
-    "main.js": "/k1-de-ultimate/static/js/main.a2b68262.js",
-    "static/media/2.jpg": "/k1-de-ultimate/static/media/2.371315ebd427f83afadc.jpg",
-    "static/media/4.png": "/k1-de-ultimate/static/media/4.6af44f3a278e39352ef9.png",
-    "static/media/7.jpg": "/k1-de-ultimate/static/media/7.441ba20df0c8e7f22558.jpg",
+    "main.css": "/k1-de-ultimate/static/css/main.04cbbb9d.css",
+    "main.js": "/k1-de-ultimate/static/js/main.07fd0bf5.js",
     "static/media/3.jpg": "/k1-de-ultimate/static/media/3.0a6490aecaf085afe4ae.jpg",
+    "static/media/ayinde.jpg": "/k1-de-ultimate/static/media/ayinde.d73d7b91e23cb9bbfc55.jpg",
     "static/media/6.jpg": "/k1-de-ultimate/static/media/6.d5ca77fd295569ffc259.jpg",
-    "static/media/5.jpg": "/k1-de-ultimate/static/media/5.491b2039c3d81291fef5.jpg",
-    "static/media/1.jpg": "/k1-de-ultimate/static/media/1.14ea3f8c8e9a7702d6c4.jpg",
-    "static/media/logo.png": "/k1-de-ultimate/static/media/logo.1b5858415d9d1cc1e0a7.png",
     "index.html": "/k1-de-ultimate/index.html",
-    "main.aee57203.css.map": "/k1-de-ultimate/static/css/main.aee57203.css.map",
-    "main.a2b68262.js.map": "/k1-de-ultimate/static/js/main.a2b68262.js.map"
+    "main.04cbbb9d.css.map": "/k1-de-ultimate/static/css/main.04cbbb9d.css.map",
+    "main.07fd0bf5.js.map": "/k1-de-ultimate/static/js/main.07fd0bf5.js.map"
   },
   "entrypoints": [
-    "static/css/main.aee57203.css",
-    "static/js/main.a2b68262.js"
+    "static/css/main.04cbbb9d.css",
+    "static/js/main.07fd0bf5.js"
   ]
 }
